@@ -1,4 +1,4 @@
-# README.md
+### README.md
 ## Source
 A full description of the data used in this project can be found at [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 <br>
